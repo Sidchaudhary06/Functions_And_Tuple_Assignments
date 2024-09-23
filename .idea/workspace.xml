@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bbe1c7-cae6-4eb3-8b63-02915c308215" name="Changes" comment="" />
+    <list default="true" id="01bbe1c7-cae6-4eb3-8b63-02915c308215" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Ques_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Ques_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Ques_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Ques_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Ques_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Ques_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Ques_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Ques_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_Ques_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuple_Ques_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple_Ques_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuple_Ques_2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sidchaudhary06&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sidchaudhary06/Functions_And_Tuple_Assignments.git&quot;,
+    &quot;accountId&quot;: &quot;b654ac76-a6c2-4f25-852a-efe5e046f87a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mRPGzpHNYw4NOYaX3UatgcRoOJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,7 +52,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.23.09.2024.executor": "Run",
+    "Python.Functions_Ques_1.executor": "Run",
+    "Python.Functions_Ques_3.executor": "Run",
+    "Python.Functions_Ques_5.executor": "Run",
+    "Python.Functions_Ques_6.executor": "Run",
+    "Python.Tuple_Ques_1.executor": "Run",
+    "Python.Tuple_Ques_2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
